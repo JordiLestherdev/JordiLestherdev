@@ -13,6 +13,11 @@ I'm currently studying Cibersecurity Engineering, I'm a frontend developer speci
   <summary><h4>Skills</h4></summary>
 
   My skills
+  <div>
+    <li>
+      <ul>Capacidad de iniciativa para actuar ante emergencias de forma resolutiva</ul>
+    </li>
+  </div>
 </details>
 
 <details>
