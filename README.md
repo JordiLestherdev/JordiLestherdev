@@ -22,7 +22,8 @@ React, Next.js, Angular, Node.js, entre otras. <br>
 
 ### 📫 Conéctate conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lestherdev-blue?logo=linkedin)](https://www.linkedin.com/in/Lestherdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lestherdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Lestherdev)  
+[![Email](https://img.shields.io/badge/Email-jordi.lf.cb@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jordi.lf.cb@gmail.com)
 
 ###
 
