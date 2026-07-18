@@ -23,6 +23,7 @@ Actualmente estoy documentando mis arquitecturas y patrones de diseño en estos 
 ### 🧰 Stack Tecnológico
 
 **Ecosistema Core & E-commerce:**
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
@@ -30,6 +31,7 @@ Actualmente estoy documentando mis arquitecturas y patrones de diseño en estos 
 ![VTEX IO](https://img.shields.io/badge/-VTEX%20IO-FF0050?style=for-the-badge&logo=vtex&logoColor=fff)
 
 **Bases de Datos & Automatización:**
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
 ![n8n](https://img.shields.io/badge/n8n-FF6D5W?style=for-the-badge&logo=n8n&logoColor=white)
