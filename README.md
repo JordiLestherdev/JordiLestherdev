@@ -1,6 +1,7 @@
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=250&section=header&text=Jordi%20Lesther&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20E-commerce&fontSize=50&fontColor=f5f5f5&descSize=22&descAlignY=70&stroke=020202" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Jordi%20Lesther&desc=Full%20Stack%20Developer%20-%20AI%20and%20E-commerce&fontSize=50&fontColor=f5f5f5&descSize=22&descAlignY=70" />
 </div>
+
 
 ### 🚀 Perfil Profesional
 
@@ -44,7 +45,3 @@ Actualmente estoy documentando mis arquitecturas y patrones de diseño en estos 
 [![Email](https://img.shields.io/badge/Email-jordi.lf.cb@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jordi.lf.cb@gmail.com)
 
 <br clear="both">
-
-<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lestherdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
