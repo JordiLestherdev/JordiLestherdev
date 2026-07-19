@@ -16,7 +16,7 @@ Soy un desarrollador Full Stack con más de 5 años de experiencia, especializad
 
 Actualmente estoy documentando mis arquitecturas y patrones de diseño en estos repositorios:
 
-* 🧠 [**ai-cognitive-agents-prompts**](https://github.com/JordiLestherdev/ai-cognitive-agents-prompts): Patrones de ingeniería de prompts, inyección de contexto (RAG) y guardrails estrictos (JSON outputs) para IA.
+* 🧠 [**ai-cognitive-agents-prompts**](https://github.com/JordiLestherdev/ai-cognitive-agents-prompts-): Patrones de ingeniería de prompts, inyección de contexto (RAG) y guardrails estrictos (JSON outputs) para IA.
 
 * ⚡ [**n8n-human-in-the-loop-architecture**](#): Orquestación de IA y automatizaciones con n8n.
 * 💻 [**ecommerce-core-snippets**](#): Patrones reutilizables y soluciones para Next.js y Node.js.
